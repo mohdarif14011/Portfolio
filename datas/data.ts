@@ -66,7 +66,7 @@ export const projects = [
     type: "Featured Project",
     description:
       "Conducted UX research, developed user personas, and created wireframes to design user-centric applications, ensuring seamless navigation and iterative improvements.",
-    image: "/KubairHome.png",
+    image: "/public/KubairHome.png",
   },
   {
     name: "Nexlearn",
