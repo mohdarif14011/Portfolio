@@ -1,7 +1,3 @@
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import Link from "next/link";
 
 const Header = () => {
   return (
@@ -10,7 +6,7 @@ const Header = () => {
         className="mx-auto w-full  xl:w-[70%] relative pb-10   flex flex-col gap-4 lg:w-[70%]"
       >
         <div className="flex flex-col gap-2">
-          <span className="mx-auto font-medium text-lg">Hi, I'm</span>
+          <span className="mx-auto font-medium text-lg">Hi, I&lsquo;m</span>
           <h1 className="mx-auto font-bold  text-6xl md:text-7xl font-grotesk">
             Mohd Arif
           </h1>

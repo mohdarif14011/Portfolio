@@ -15,7 +15,7 @@ const Contact = () => {
         </h2>
         <h3 className=" text-2xl sm:text-4xl font-bold">Get in Touch</h3>
         <p className="text-base sm:text-lg">
-          I'm currently open to new job opportunities. Contact me if you are
+          I&apos;m currently open to new job opportunities. Contact me if you are
           interested in having me on your team, working on your project, seeking
           mentorship, or just want to say hello. Please click the button below
           or send an email to{" "}

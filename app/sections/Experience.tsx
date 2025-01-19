@@ -79,7 +79,7 @@ const Experience = () => {
     >
       <header className="flex flex-row gap-4 justify-start items-center font-bold">
         <span className="font-bold text-lg sm:text-2xl font-idgrotesk">
-          02. Where I've worked
+          02. Where I&apos;ve worked
         </span>
         <div className="w-[5%] lg:w-36 border-b-[1px] border-b-border-color"></div>
       </header>

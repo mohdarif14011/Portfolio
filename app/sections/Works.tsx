@@ -13,7 +13,7 @@ const Works = () => {
       <header className="flex flex-row gap-4  justify-start lg:justify-end items-center font-b">
         <div className="flex flex-row gap-4 justify-center lg:justify-end items-center font-bold">
           <span className=" font-bold text-lg sm:text-2xl font-idgrotesk">
-            03. Things I've Built
+            03. Things I&apos;ve Built
           </span>
           <div className="w-[5%] lg:w-36 border-b-[1px] border-b-border-color"></div>
         </div>
