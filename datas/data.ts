@@ -65,7 +65,7 @@ export const projects = [
     name: "Kubair",
     type: "Featured Project",
     description:
-      "Conducted UX research, developed user personas, and created wireframes to design user-centric applications, ensuring seamless navigation and iterative improvements.",
+      "Conducted UX research, developed user personas and created wireframes to design user-centric applications, ensuring seamless navigation and iterative improvements.",
     image: "/public/KubairHome.png",
   },
   {
