@@ -66,28 +66,28 @@ export const projects = [
     type: "Featured Project",
     description:
       "Conducted UX research, developed user personas and created wireframes to design user-centric applications, ensuring seamless navigation and iterative improvements.",
-    image: "/public/KubairHome.png",
+    image: "https://res.cloudinary.com/donszbe80/image/upload/v1741617802/KubairHome_a2mrhc.png",
   },
   {
     name: "Nexlearn",
     type: "Featured Project",
     description:
       "Designed user-centric interfaces through research and rapid prototyping, delivering a functional, intuitive product within the competition timeframe.",
-    image: "/Nexlearn-Home.png",
+    image: "https://res.cloudinary.com/donszbe80/image/upload/v1741617802/Nexlearn-Home_dgrthi.png",
   },
   {
     name: "Byteverse",
     type: "Featured Project",
     description:
       "Provided design consulting, developed wireframes and prototypes, and collaborated with teams to deliver intuitive, polished solutions within strict deadlines.",
-    image: "/Byteverse-Home.png",
+    image: "https://res.cloudinary.com/donszbe80/image/upload/v1741617803/Byteverse-Home_dw6lwo.png",
   },
   {
     name: "Abhishek Academy",
     type: "Featured Project",
     description:
       "Designed intuitive user interfaces, created responsive layouts, and conducted UX research, delivering user-friendly ed-tech solutions aligned with modern design principles.",
-    image: "/Abhi-Home.png",
+    image: "https://res.cloudinary.com/donszbe80/image/upload/v1741617802/Abhi-Home_httjej.png",
   },
   ,
 ];
